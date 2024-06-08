@@ -1,0 +1,717 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+
+#---------------------------------- Content ---------------------------------#
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-10.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-10.png;French-Clover-10.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-2.png;French-Clover-2.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-3.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-3.png;French-Clover-3.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-4.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-4.png;French-Clover-4.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-5.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-5.png;French-Clover-5.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-6.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-6.png;French-Clover-6.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-7.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-7.png;French-Clover-7.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-8.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-8.png;French-Clover-8.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-9.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-9.png;French-Clover-9.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-A.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-A.png;French-Clover-A.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-J.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-J.png;French-Clover-J.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-K.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-K.png;French-Clover-K.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-Q.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Clover-Q.png;French-Clover-Q.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-10.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-10.png;French-Diamond-10.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-2.png;French-Diamond-2.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-3.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-3.png;French-Diamond-3.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-4.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-4.png;French-Diamond-4.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-5.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-5.png;French-Diamond-5.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-6.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-6.png;French-Diamond-6.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-7.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-7.png;French-Diamond-7.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-8.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-8.png;French-Diamond-8.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-9.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-9.png;French-Diamond-9.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-A.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-A.png;French-Diamond-A.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-J.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-J.png;French-Diamond-J.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-K.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-K.png;French-Diamond-K.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-Q.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Diamond-Q.png;French-Diamond-Q.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-10.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-10.png;French-Heart-10.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-2.png;French-Heart-2.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-3.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-3.png;French-Heart-3.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-4.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-4.png;French-Heart-4.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-5.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-5.png;French-Heart-5.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-6.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-6.png;French-Heart-6.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-7.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-7.png;French-Heart-7.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-8.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-8.png;French-Heart-8.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-9.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-9.png;French-Heart-9.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-A.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-A.png;French-Heart-A.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-J.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-J.png;French-Heart-J.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-K.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-K.png;French-Heart-K.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-Q.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Heart-Q.png;French-Heart-Q.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-10.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-10.png;French-Spade-10.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-2.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-2.png;French-Spade-2.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-3.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-3.png;French-Spade-3.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-4.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-4.png;French-Spade-4.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-5.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-5.png;French-Spade-5.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-6.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-6.png;French-Spade-6.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-7.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-7.png;French-Spade-7.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-8.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-8.png;French-Spade-8.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-9.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-9.png;French-Spade-9.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-A.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-A.png;French-Spade-A.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-J.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-J.png;French-Spade-J.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-K.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-K.png;French-Spade-K.png
+
+#begin ../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-Q.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:../../../../OneDrive/Desktop/game assets/Card Decks/PNG/French Cards/French-Spade-Q.png;French-Spade-Q.png
+
+#begin ball.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:ball.png
+
+#begin BLANK CARD.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:BLANK CARD.png
+
+#begin HIT BUTTON.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:HIT BUTTON.png
+
+#begin How Sweet.mp3
+/importer:Mp3Importer
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:How Sweet.mp3
+
+#begin STAND BUTTON.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:STAND BUTTON.png
+
+#begin YOU LOSE .png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:YOU LOSE .png
+
+#begin YOU WIN.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:YOU WIN.png
+
